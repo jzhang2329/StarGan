@@ -1,5 +1,5 @@
 # StarGan
-![teaser.png](..%2F..%2F..%2FDownloads%2Fteaser.png)
+![teaser.png](pics/afhq_latent_result.png)
 
 ### Train
 `python main.py --dataset celebA-HQ_gender --phase train` 
