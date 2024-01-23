@@ -9,9 +9,9 @@
 
 ## Tensorflow results
 CelebA-HQ
-![teaser.png](..%2F..%2F..%2FDownloads%2Fteaser.png)
+![teaser.png](pics/celeba_latent_result.png)
 AFHQ
-![afhq_latent_result.png](..%2F..%2F..%2FDownloads%2Fafhq_latent_result.png)
+![afhq_latent_result.png](pics/teaser.png)
 
 ## Citation
 `@inproceedings{choi2020starganv2,
